@@ -1,2 +1,2 @@
 This fie ceated for jenkins tutorial
-just for the test
+just for the tested
